@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "title": "Glitter knit mini dress",
+    "filter": "Costume",
+    "price": 3453.9,
+    "url": "https://dhgh9590.github.io/forck_json/img/section2_5.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 5,
+    "title": "Freeze Embroidered Dress",
+    "filter": "Costume",
+    "price": 3235.02,
+    "url": "https://dhgh9590.github.io/forck_json/img/section2_6.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 6,
+    "title": "Vibrant Accent Long Dress",
+    "filter": "Costume",
+    "price": 2134,
+    "url": "https://dhgh9590.github.io/forck_json/img/section2_7.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 7,
+    "title": "Tailored tennis dress",
+    "filter": "Costume",
+    "price": 2347,
+    "url": "https://dhgh9590.github.io/forck_json/img/section2_8.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  }
+]
