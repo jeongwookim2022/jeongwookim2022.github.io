@@ -1,0 +1,30 @@
+[
+  {
+    "id": 16,
+    "title": "Over the moon",
+    "filter": "Accessories",
+    "price": 1380,
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_9.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Alma BB",
+    "filter": "Accessories",
+    "price": 2304,
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_10.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Lock Me Tender",
+    "filter": "Accessories",
+    "price": 2750,
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_11.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Ellipse BB",
+    "filter": "Accessories",
+    "price": 1836,
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_12.jpg"
+  }
+]

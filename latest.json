@@ -1,0 +1,158 @@
+[
+  [
+    {
+      "id": 8,
+      "title": "Graphic knit mini dress",
+      "filter": "Costume",
+      "price": 3451.6,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_1.jpg",
+      "size": ["S", "L", "XL"],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 9,
+      "title": "Retro Martingal Dress",
+      "filter": "Costume",
+      "price": 2356.1,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_2.jpg",
+      "size": ["S", "L", "XL"],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 10,
+      "title": "Cinched balloon dress",
+      "filter": "Costume",
+      "price": 1930.02,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_3.jpg",
+      "size": ["S", "L", "XL"],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 11,
+      "title": "Flap pocket vinyl dress",
+      "filter": "Costume",
+      "price": 1334.95,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_4.jpg",
+      "size": ["S", "L", "XL"],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    }
+  ],
+  [
+    {
+      "id": 12,
+      "title": "Croisier Mules",
+      "filter": "Shoes",
+      "price": 345,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_5.jpg",
+      "size": [240, 245, 250, 255, 260],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 13,
+      "title": "Time out sneakers",
+      "filter": "Shoes",
+      "price": 381,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_6.jpg",
+      "size": [240, 245, 250, 255, 260],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 14,
+      "title": "Archlight pumps",
+      "filter": "Shoes",
+      "price": 678,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_7.jpg",
+      "size": [240, 245, 250, 255, 260],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 15,
+      "title": "Bethette sandals",
+      "filter": "Shoes",
+      "price": 865,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_8.jpg",
+      "size": [240, 245, 250, 255, 260],
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    }
+  ],
+  [
+    {
+      "id": 16,
+      "title": "Over the moon",
+      "filter": "Accessories",
+      "price": 1380,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_9.jpg",
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 17,
+      "title": "Alma BB",
+      "filter": "Accessories",
+      "price": 2304,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_10.jpg",
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 18,
+      "title": "Lock Me Tender",
+      "filter": "Accessories",
+      "price": 2750,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_11.jpg",
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    },
+    {
+      "id": 19,
+      "title": "Ellipse BB",
+      "filter": "Accessories",
+      "price": 1836,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_12.jpg",
+      "color": ["white", "black", "red", "blue"],
+      "count": 1
+    }
+  ],
+  [
+    {
+      "id": 20,
+      "title": "Spell on you",
+      "filter": "Perfume",
+      "price": 132,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_13.jpg",
+      "count": 1
+    },
+    {
+      "id": 21,
+      "title": "Etoile Piland",
+      "filter": "Perfume",
+      "price": 113,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_14.jpg",
+      "count": 1
+    },
+    {
+      "id": 22,
+      "title": "On the beach",
+      "filter": "Perfume",
+      "price": 143,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_15.jpg",
+      "count": 1
+    },
+    {
+      "id": 23,
+      "title": "California Dream",
+      "filter": "Perfume",
+      "price": 116,
+      "url": "https://dhgh9590.github.io/forck_json/img/section3_16.jpg",
+      "count": 1
+    }
+  ]
+]
