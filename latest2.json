@@ -5,7 +5,8 @@
     "filter": "Shoes",
     "price": 345,
     "size": [240, 245, 250, 255],
-    "url": "https://dhgh9590.github.io/forck_json/img/section3_5.jpg"
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_5.jpg",
+    "count": 1
   },
   {
     "id": 13,
@@ -13,7 +14,8 @@
     "filter": "Shoes",
     "price": 381,
     "size": [240, 245, 250, 255],
-    "url": "https://dhgh9590.github.io/forck_json/img/section3_6.jpg"
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_6.jpg",
+    "count": 1
   },
   {
     "id": 14,
@@ -21,7 +23,8 @@
     "filter": "Shoes",
     "price": 678,
     "size": [240, 245, 250, 255],
-    "url": "https://dhgh9590.github.io/forck_json/img/section3_7.jpg"
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_7.jpg",
+    "count": 1
   },
   {
     "id": 15,
@@ -29,6 +32,7 @@
     "filter": "Shoes",
     "price": 865,
     "size": [240, 245, 250, 255],
-    "url": "https://dhgh9590.github.io/forck_json/img/section3_8.jpg"
+    "url": "https://dhgh9590.github.io/forck_json/img/section3_8.jpg",
+    "count": 1
   }
 ]
